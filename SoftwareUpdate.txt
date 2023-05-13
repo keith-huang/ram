@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
