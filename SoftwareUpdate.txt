@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
