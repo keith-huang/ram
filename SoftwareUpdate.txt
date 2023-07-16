@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
