@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
